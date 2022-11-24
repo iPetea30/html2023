@@ -1,0 +1,19 @@
+h1{
+    font: bold;
+    color: blue;
+    border-bottom: 2px solid blue;
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: auto;
+}
+label{
+    display: inline-block;
+    width: 190px;
+    text-align: right;
+}
+input{
+    padding: 15px 15px;
+    margin-left: 15px;
+}
