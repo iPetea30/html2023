@@ -152,7 +152,7 @@ ol li {
 
 /* HEADER */
 #header {
-  background-image: url(../images/header.jpg);
+  background-image: url(../img/header.jpg);
   background-size: cover;
   border-bottom: 1px solid #3d3d3d;
   height: 250px;
@@ -312,8 +312,8 @@ ul#menu li a:hover {
 
 /* BANNER */
 #banner {
-  /* background: transparent url(../images/banner.png) no-repeat; */
-  background-image: url(../images/banner.png);
+  /* background: transparent url(../img/banner.png) no-repeat; */
+  background-image: url(../img/banner.png);
   background-color: transparent;
   background-repeat: no-repeat;
   background-size: contain;
@@ -379,7 +379,8 @@ overflow: auto;
 .col-4 {
   width: 30%;
   float: left;
-  padding: 0 10px;
+  padding:10px;
+  min-height: 150px;
 }
 .col-4 > img {
   width: 100%;
@@ -389,8 +390,7 @@ overflow: auto;
 
 table#tb_1 {
   margin: 10px 0 30px 0;
-  width:100%; 
-  border-spacing:0;
+  width:100%; border-spacing:0;
 }
 
 table#tb_1 tr th,
