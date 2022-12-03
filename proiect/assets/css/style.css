@@ -357,7 +357,7 @@ ul#menu li a:hover {
 #content ul li,
 .sidebar ul li {
   list-style-type: none;
-  background: url(bullet.png) no-repeat;
+  background: url(../img/bullet.png) no-repeat;
   margin: 0 0 0 0;
   padding: 0 0 4px 25px;
   line-height: 1.5em;
@@ -387,21 +387,21 @@ overflow: auto;
   max-height: 140px;
 }
 
-
-table#tb_1 {
+table#tbl_1 {
   margin: 10px 0 30px 0;
-  width:100%; border-spacing:0;
+  width:100%; 
+  border-spacing:0;
 }
 
-table#tb_1 tr th,
-table#tb_1 tr td {
+table#tbl_1 tr th,
+table#tbl_1 tr td {
   background: #3b3b3b;
   color: #ffffff;
   padding: 7px 4px;
   text-align: left;
 }
 
-table#tb_1 tr td {
+table#tbl_1 tr td {
   background: #e5e5db;
   color: #47433f;
   border-top: 1px solid #ffffff;
