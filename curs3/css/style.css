@@ -6,7 +6,8 @@ p:hover{
     color:blue;
 }
 h1{
-    font-size: 12px;
+    font-size: 10px;
+    border-bottom: 5px #000000 solid;
 }
 #demo{
     color: aqua;

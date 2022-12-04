@@ -347,7 +347,7 @@ ul#menu li a:hover {
   max-width: 768px;
   padding: 0 0 0 5px;
   float: left;
-  border: 1px red dotted;
+  /* border: 1px red dotted; */
 }
 
 #content ul {
@@ -374,12 +374,12 @@ ul#menu li a:hover {
   width: 100%;
   margin: 20px auto;
   clear: both;
-overflow: auto;
+  overflow: auto;
 }
 .col-4 {
   width: 30%;
   float: left;
-  padding:10px;
+  padding: 10px;
   min-height: 150px;
 }
 .col-4 > img {

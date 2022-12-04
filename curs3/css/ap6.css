@@ -1,6 +1,7 @@
 #p1, #p2{
     color: red;
 }
+
 p{
     color: green;
 }
@@ -9,6 +10,7 @@ p{
     font-size: 35px;
     color: coral;
 }
+
 .pblue{
     color:blue;
 }
@@ -19,9 +21,11 @@ p{
 div p{
     color: chocolate;
 }
+
 .iddiv .pdiv{
 color: black;
 }
+
 .iddiv > .pdiv{
     color: aquamarine;
 }
